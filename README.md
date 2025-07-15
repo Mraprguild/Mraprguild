@@ -13,23 +13,7 @@
 
 ## 🚀 About Me
 
-<div> class Developer:
-    def __init__(self):
-        self.name = "Mraprguild"
-        self.role = "Python Developer"
-        self.location = "Ariyalur, Tamil Nadu, India"
-        self.skills = {
-            "Languages": ["Python", "Bash"],
-            "DevOps": ["Docker", "CI/CD"],
-            "Tools": ["Git", "Linux", "Termux"]
-        }
-
-    def __str__(self):
-        return f"{self.name} | {self.role}"
-
-me = Developer()
-print(me)
-</div>
+<p align="left">𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘<p align="left">• 𝙼𝚢 𝙽𝚊𝚖𝚎: Mraprguild<p align="left">• 𝙰𝚐𝚎: 24<p align="left">• 𝙿𝚕𝚊𝚌𝚎: Ariyalur/TamilNadu/𝙸𝚗𝚍𝚒𝚊<p align="left">• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: Tamil/𝙴𝚗𝚐𝚕𝚒𝚜𝚑<p align="left">• 𝚆𝚘𝚛𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 ## 🔥 Tech Stack
 
