@@ -63,10 +63,9 @@
   </a>
 </div>
 
-## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+## 🐍 Contribution Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mraprguild&theme=react-dark&hide_border=true&area=true)
-
+![Snake Animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mraprguild&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
