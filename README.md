@@ -1,78 +1,72 @@
-# 💫 Mraprguild's Developer Profile
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗠𝗿𝗮𝗽𝗿𝗴𝘂𝗶𝗹𝗱! 👋
 
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=Mraprguild&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&width=600&height=80&lines=Python+Developer;Open+Source+Enthusiast;From+India)](https://git.io/typing-svg)
-
-[![Visits](https://komarev.com/ghpvc/?username=Mraprguild&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Mraprguild)
-[![Followers](https://img.shields.io/github/followers/Mraprguild?label=Followers&style=social)](https://github.com/Mraprguild?tab=followers)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=22D3EE&center=true&width=600&height=60&lines=Python+Developer;Open-Source+Contributor;Backend+Specialist;From+India" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-<p align="left">𝗠𝗬 𝗣𝗥𝗢𝗙𝗜𝗟𝗘<p align="left">• 𝙼𝚢 𝙽𝚊𝚖𝚎: Mraprguild<p align="left">• 𝙰𝚐𝚎: 24<p align="left">• 𝙿𝚕𝚊𝚌𝚎: Ariyalur/TamilNadu/𝙸𝚗𝚍𝚒𝚊<p align="left">• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: Tamil/𝙴𝚗𝚐𝚕𝚒𝚜𝚑<p align="left">• 𝚆𝚘𝚛𝚔: 𝙿𝚢𝚝𝚑𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 💻 Professional Python Developer with 3+ years experience
+- 🌱 Currently learning **Cloud Technologies & System Design**
+- 💡 Passionate about **open-source contributions**
+- 📍 Based in Ariyalur, Tamil Nadu, India
+- ✉️ Reach me: [your.email@example.com](mailto:your.email@example.com)
 
-## 🔥 Tech Stack
+## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,docker,linux,bash,vscode,flask,fastapi" alt="Tech Stack" />
-</p>
+### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 & 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-## 📊 GitHub Stats
+### 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
 
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=Mraprguild&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=20&bg_color=0d1117&border_color=00ff00)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mraprguild&theme=vision-friendly-dark&border_radius=20&border=00ff00&background=0d1117)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mraprguild&layout=compact&theme=vision-friendly-dark&border_radius=20&bg_color=0d1117&border_color=00ff00)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mraprguild&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mraprguild&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mraprguild&theme=radical" alt="GitHub Streak" />
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mraprguild&theme=matrix&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
+## 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-## 🌐 Socials
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project 1](link) | Short description | Python, Flask |
+| [Project 2](link) | Short description | FastAPI, MongoDB |
 
-<p align="center"> 
-  <a href="https://github.com/Mraprguild" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲
+
+<div align="center">
   <a href="https://twitter.com/Mraprguild" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/mr.apr1" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/mr.apr1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/mraprtermux" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-## 🐍 Contribution Graph
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
-![Snake Animation](https://raw.githubusercontent.com/Mraprguild/Mraprguild/output/github-contribution-grid-snake.svg)
-
-## 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31kzowjqj3n5jz5gq3b3b3b3b3b3b&cover_image=true&theme=novatorem&bar_color=00ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kzowjqj3n5jz5gq3b3b3b3b3b3b&redirect=true)
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mraprguild&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&width=500&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Happy+Coding+💻)](https://git.io/typing-svg)
-
+  <img src="https://komarev.com/ghpvc/?username=Mraprguild&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
