@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Cloud Technologies & System Design**
 - 💡 Passionate about **open-source contributions**
 - 📍 Based in Ariyalur, Tamil Nadu, India
-- ✉️ Reach me: [your.email@example.com](mailto:your.email@example.com)
+- ✉️ Reach me: [your.email@example.com](mraprguild@gmail.com)
 
 ## 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
