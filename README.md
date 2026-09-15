@@ -15,13 +15,23 @@
 </div>
 
 ---
-## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+<div align="center">
 
-- 💻 Professional Python Developer with 3+ years experience
-- 🌱 Currently learning Cloud Technologies & System Design
-- 💡 Passionate about open-source contributions
-- 📍 Based in Ariyalur, Tamil Nadu, India
-- ✉️ Reach me: [mraprguild@gmail.com](mraprguild@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+About+Me+%E2%9C%A8" alt="About Me Animation"/>
+
+</div>
+
+* 💻 **Professional Python Developer** with 3+ years experience
+* 🌱 Currently learning **Cloud Technologies & System Design**
+* 💡 Passionate about **open-source contributions**
+* 📍 Based in **Ariyalur, Tamil Nadu, India**
+* ✉️ Reach me: [**mraprguild@gmail.com**](https://github.com/Mraprguild/Mraprguild/blob/main/mraprguild@gmail.com)
+
+<div align="center">
+
+✨ • 🚀 • 💻 • ☁️ • 🐍 • 💡 • ✨
+
+</div>
 
 ### 💫 What I'm Doing
 
@@ -62,9 +72,9 @@
 
 ---
 
-## ⚡ GitHub Activity
-
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=%E2%9C%A8+GitHub+Activity+%E2%9C%A8" alt="GitHub Activity Animation"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Mraprguild&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats">
 
