@@ -18,6 +18,8 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
 ```python
 class Mraprguild:
 
@@ -39,6 +41,8 @@ class Mraprguild:
     def fun_fact(self):
         return "I enjoy turning ideas into working software 🚀"
 ```
+
+</div>
 
 ### 💫 What I'm Doing
 
