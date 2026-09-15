@@ -92,28 +92,6 @@
 
 ---
 
-## 📊 Developer Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mraprguild&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mraprguild&layout=compact&langs_count=8&theme=radical&hide_border=true" width="49%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Mraprguild&theme=radical&hide_border=true" width="70%" />
-
-</div>
-
-### 🔥 GitHub Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mraprguild\&theme=react-dark\&hide_border=true\&area=true)
-
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
