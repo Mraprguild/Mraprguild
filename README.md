@@ -15,30 +15,13 @@
 </div>
 
 ---
+## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-## 🚀 About Me
-
-```python
-class Mraprguild:
-
-    def __init__(self):
-        self.name = "Mraprguild"
-        self.role = "Python Developer"
-        self.experience = "3+ Years"
-        self.location = "Tamil Nadu, India"
-        self.focus = [
-            "Backend Development",
-            "Cloud Technologies",
-            "System Design",
-            "Open Source"
-        ]
-
-    def current_goal(self):
-        return "Build scalable, secure and high-performance applications"
-
-    def fun_fact(self):
-        return "I enjoy turning ideas into working software 🚀"
-```
+- 💻 Professional Python Developer with 3+ years experience
+- 🌱 Currently learning Cloud Technologies & System Design
+- 💡 Passionate about open-source contributions
+- 📍 Based in Ariyalur, Tamil Nadu, India
+- ✉️ Reach me: [mraprguild@gmail.com](mraprguild@gmail.com)
 
 ### 💫 What I'm Doing
 
