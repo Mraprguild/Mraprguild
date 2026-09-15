@@ -66,9 +66,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mraprguild&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="Mraprguild GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?Mraprguild&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="Mraprguild GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mraprguild&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Mraprguild Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Mraprguild&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Mraprguild Top Languages">
 
 </div>
 
